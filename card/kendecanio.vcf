@@ -6,11 +6,12 @@ TITLE:consulting startup guy
 ORG:41monkeys;
 EMAIL;type=INTERNET;type=WORK;type=pref:ken.decanio@41monkeys.com
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:(415) 515-4361
-CATEGORIES:Founder,Mentor,Product Management,Ruby on Rails,Startups
-NOTE:I work with domain experts to build products that delight customers.\n\n• startup advisor / mentor\n• Lean Startup / customer development coach\n• interim CTO\n• consulting technical co-founder\n• product manager, technical product manager\n• software/system architect\n• Rails / web developer (full-stack)\n• Whatever else you need done
-URL;TYPE=work:41monkeys.com
-URL;TYPE=blog,pref:kendecanio.com
+CATEGORIES:Startups,Founder,Mentor,Product Management,Ruby on Rails
+NOTE:'cause companies don't start themselves\n\nStartup Advisor\nStartup Mentor\nInterim Technical Co-Founder\nInterim CTO\nProduct Manager\nArchitect\nProduct Development\n\n
+URL;type=WORK;type=pref:41monkeys.com
+URL;type=WORK:Stage1.co
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/kendecanio
+X-SOCIALPROFILE;type=twitter:http://twitter.com/kendecanio
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4gxYSUNDX1BST0ZJTEUA
  AQEAAAxITGlubwIQAABtbnRyUkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1
  JHQgAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

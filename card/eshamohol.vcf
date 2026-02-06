@@ -8,8 +8,7 @@ TEL;type=CELL;type=VOICE;type=pref:+91 98606 99667
 TEL:+1 (646) 266-8176
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/esha-mohol
 NOTE:Founder · Designer · Researcher · Strategist\nBuilder in motion\nLet’s work with intention\n@eshalign | Pune ↔ NYC
-URL;TYPE=blog,pref:https://eshamohol.com
-URL;TYPE=work:https://behance.net/eshamohol1b5a
+URL;TYPE=work,pref:https://eshamohol.com
 URL;TYPE=instagram:https://instagram.com/eshalign
 BDAY:1998-11-26
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4Q/+RXhpZgAATU0AKgAAAAgABQEaAAUAAAABAAAASgEb

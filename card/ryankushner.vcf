@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:TEST;Ryan Steven;;;
-FN:Ryan Steven TEST
+N:Kushner;Ryan Steven;;;
+FN:Ryan Steven Kushner
 EMAIL;type=INTERNET;type=HOME;type=pref:ryankushner@gmail.com
 TEL;type=WORK;type=VOICE;type=pref:323-309-1474
 item1.URL;type=pref:http://www.linkedin.com/in/ryankushner
